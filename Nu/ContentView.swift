@@ -4,6 +4,7 @@
 //
 //  Created by win603 on 10/09/25.
 //
+//Intrantes Marcelo Samuel Neri Ortiz 22751, Yahir Salazar Ortiz 22627, Fabiola Juarez Flores 22757
 
 import SwiftUI
 
